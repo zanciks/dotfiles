@@ -1,0 +1,179 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/code">
+          <value>
+            <RecentProjectMetaInfo frameTitle="code" projectWorkspaceId="2XvAkbFpb6j2reibnS0Wrm8gc7w">
+              <option name="activationTimestamp" value="1699499342140" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="9" y="-7" width="948" height="1052" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/code/egui-platformer">
+          <value>
+            <RecentProjectMetaInfo frameTitle="egui-platformer" projectWorkspaceId="2XvAmxfOpMNiXhgFlF0FQ2dTtad">
+              <option name="activationTimestamp" value="1699499381320" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RR-233.10527.39" />
+              <option name="buildTimestamp" value="1699074300000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <option name="eap" value="true" />
+              <frame x="9" y="-7" width="948" height="1052" />
+              <option name="productionCode" value="RR" />
+              <option name="projectOpenTimestamp" value="1699499342167" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RustroverProjects/chess">
+          <value>
+            <RecentProjectMetaInfo frameTitle="chess – game.rs" projectWorkspaceId="2YTKvSovDqd0Wt5qbxMtQYpezsF">
+              <option name="activationTimestamp" value="1700546662018" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RR-233.10527.39" />
+              <option name="buildTimestamp" value="1699074300000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <option name="eap" value="true" />
+              <frame x="9" y="-7" width="948" height="1045" />
+              <option name="productionCode" value="RR" />
+              <option name="projectOpenTimestamp" value="1700544359210" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RustroverProjects/egui-platformer">
+          <value>
+            <RecentProjectMetaInfo frameTitle="egui-platformer – player.rs" projectWorkspaceId="2XvAroFPF4qy5KaYtYX1Keeq821">
+              <option name="activationTimestamp" value="1700776219760" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RR-233.10527.39" />
+              <option name="buildTimestamp" value="1699074300000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <option name="eap" value="true" />
+              <frame x="9" y="-8" width="948" height="1046" />
+              <option name="productionCode" value="RR" />
+              <option name="projectOpenTimestamp" value="1700546662014" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RustroverProjects/Stockfish">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Stockfish" projectWorkspaceId="2YaurShuDAho1zCKe9QUq9jzqz7">
+              <option name="activationTimestamp" value="1700776292342" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="9" y="-8" width="948" height="1046" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RustroverProjects/jordanbray/chess">
+          <value>
+            <RecentProjectMetaInfo frameTitle="chess" projectWorkspaceId="2Yav1Vmd8TpmC61xj4A06yalfUc">
+              <option name="activationTimestamp" value="1700777280385" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="9" y="-8" width="948" height="1046" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RustroverProjects/chess_engine">
+          <value>
+            <RecentProjectMetaInfo frameTitle="chess_engine – calculate.rs" projectWorkspaceId="2Yax1sJ0PLKRHUnTfqEn0OxK3L1">
+              <option name="activationTimestamp" value="1701543530594" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RR-233.10527.39" />
+              <option name="buildTimestamp" value="1699074300000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <option name="eap" value="true" />
+              <frame x="9" y="-8" width="948" height="1046" />
+              <option name="productionCode" value="RR" />
+              <option name="projectOpenTimestamp" value="1700777279416" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RustroverProjects/bevy_game">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bevy_game – player.rs" projectWorkspaceId="2Z008TwjYmcTNBb7AZUA8ZdABDf">
+              <option name="activationTimestamp" value="1701753697844" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RR-233.10527.39" />
+              <option name="buildTimestamp" value="1699074300000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <option name="eap" value="true" />
+              <frame x="9" y="-8" width="948" height="1046" />
+              <option name="productionCode" value="RR" />
+              <option name="projectOpenTimestamp" value="1701543529777" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RustroverProjects/slime_egui">
+          <value>
+            <RecentProjectMetaInfo frameTitle="slime_egui – simulation.rs" projectWorkspaceId="2Z6ulb9vFiCC2yONhziebLuODD9">
+              <option name="activationTimestamp" value="1701755992261" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RR-233.10527.39" />
+              <option name="buildTimestamp" value="1699074300000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <option name="eap" value="true" />
+              <frame x="9" y="-8" width="948" height="1046" />
+              <option name="productionCode" value="RR" />
+              <option name="projectOpenTimestamp" value="1701755983565" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RustroverProjects/slime_bevy">
+          <value>
+            <RecentProjectMetaInfo frameTitle="slime_bevy" projectWorkspaceId="2Z6wm3A2k1nb9oyC1tCP6qxsU8p">
+              <option name="activationTimestamp" value="1701759144847" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RR-233.10527.39" />
+              <option name="buildTimestamp" value="1699074300000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <option name="eap" value="true" />
+              <frame x="9" y="-8" width="948" height="1046" />
+              <option name="productionCode" value="RR" />
+              <option name="projectOpenTimestamp" value="1701755991861" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RustroverProjects/slime">
+          <value>
+            <RecentProjectMetaInfo frameTitle="slime" opened="true" projectWorkspaceId="2Z778oohiJFnwZwr0OsP4C7qHub">
+              <option name="activationTimestamp" value="1701766640403" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RR-233.10527.39" />
+              <option name="buildTimestamp" value="1699074300000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <option name="eap" value="true" />
+              <frame x="9" y="-8" width="1902" height="1046" />
+              <option name="productionCode" value="RR" />
+              <option name="projectOpenTimestamp" value="1701761107039" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/RustroverProjects/slime" />
+    <option name="lastProjectLocation" value="$USER_HOME$/RustroverProjects" />
+  </component>
+</application>

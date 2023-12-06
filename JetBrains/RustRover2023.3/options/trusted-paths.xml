@@ -1,0 +1,24 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/RustroverProjects/bevy_game" value="true" />
+        <entry key="$USER_HOME$/RustroverProjects/chess" value="true" />
+        <entry key="$USER_HOME$/RustroverProjects/chess_engine" value="true" />
+        <entry key="$USER_HOME$/RustroverProjects/egui-platformer" value="true" />
+        <entry key="$USER_HOME$/RustroverProjects/jordanbray/chess" value="true" />
+        <entry key="$USER_HOME$/RustroverProjects/slime" value="true" />
+        <entry key="$USER_HOME$/RustroverProjects/slime_bevy" value="true" />
+        <entry key="$USER_HOME$/RustroverProjects/slime_egui" value="true" />
+        <entry key="$USER_HOME$/code" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$" />
+      </list>
+    </option>
+  </component>
+</application>

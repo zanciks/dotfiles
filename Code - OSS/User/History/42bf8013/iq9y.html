@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <div id="lampadario">
+    <input type="radio" name="switch" value="on" />
+    <input type="radio" name="switch" value="off" checked="checked"/>
+    <label for="switch"></label>
+    <div id="filo"></div>
+    <div id="lampadina">
+      <div id="sorpresa">
+        <div id="footer">
+          You turned me on!
+        </div>
+        <div id="shadow">
+          You turned me on!
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <style>
+    input {
+      position: absolute;
+      width: 90px;
+      height: 70px;
+      top: 150px;
+      margin-left: -45px;
+      opacity: 0;
+      z-index: 1;
+      cursor: pointer;
+    }
+
+    input[value="on"] {
+      top: 150px;
+    }
+
+    input[value="off"] {
+      top: -100px;
+    }
+
+    input[value="on"]:checked {
+      top: -100px;
+    }
+
+    input[value="on"]:checked + input[value="off"] {
+      top: 150px;
+    }
+  </style>
+</body>
+</html>

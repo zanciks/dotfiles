@@ -1,0 +1,315 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="egui-platformer" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/player.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="DIFF">
+      <summary usageCount="3" lastUsed="1699598508296" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="2" lastUsed="1699742372489" />
+    </fileType>
+    <fileType name="Rust">
+      <summary usageCount="48" lastUsed="1700776178113" />
+    </fileType>
+    <fileType name="TOML">
+      <summary usageCount="1" lastUsed="1699499380894" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bounding_size</find>
+      <find>self.collides</find>
+      <find>delta</find>
+      <find>jump_st</find>
+      <find />
+      <find>delta_time</find>
+      <find>print</find>
+      <find>25</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Cargo.toml" />
+      <option value="$PROJECT_DIR$/src/objects/mod.rs" />
+      <option value="$PROJECT_DIR$/src/entities/player/mod.rs" />
+      <option value="$PROJECT_DIR$/src/entities/mod.rs" />
+      <option value="$PROJECT_DIR$/src/player/mod.rs" />
+      <option value="$PROJECT_DIR$/src/player/player_main.rs" />
+      <option value="$PROJECT_DIR$/src/level.rs" />
+      <option value="$PROJECT_DIR$/src/objects/wall.rs" />
+      <option value="$PROJECT_DIR$/src/game.rs" />
+      <option value="$PROJECT_DIR$/src/main.rs" />
+      <option value="$PROJECT_DIR$/src/player.rs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="2" lastUsage="1699742372489" />
+    </language>
+    <language id="Rust">
+      <summary usageCount="48" lastUsage="1700776178115" />
+    </language>
+    <language id="TOML">
+      <summary usageCount="1" lastUsage="1699499380894" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="egui-platformer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/zanciks/RustroverProjects/egui-platformer}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="egui-platformer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/zanciks/RustroverProjects/egui-platformer}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/zanciks/RustroverProjects/egui-platformer/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="egui-platformer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/zanciks/RustroverProjects/egui-platformer}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/zanciks/RustroverProjects/egui-platformer/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/zanciks/RustroverProjects/egui-platformer/src/objects}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Cargo.Run" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="egui-platformer-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25695000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24236843" />
+      <window_info id="Commit" order="1" weight="0.13303477" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" weight="0.32994187" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.5002754" weight="0.22916667" />
+      <window_info anchor="bottom" id="Problems View" order="3" sideWeight="0.4997247" weight="0.2287805" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" sideWeight="0.5002754" weight="0.2287805" />
+      <window_info anchor="bottom" id="Services" order="5" weight="0.32994187" />
+      <window_info anchor="bottom" id="Build" order="6" sideWeight="0.50027204" weight="0.2287805" />
+      <window_info anchor="bottom" id="Debug" order="7" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" weight="0.33008432" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.33008432" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.33008432" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Cargo" order="5" weight="0.2" />
+      <window_info anchor="right" id="RustCargo" order="6" weight="0.33008432" />
+      <unified_weights bottom="0.2287805" left="0.24236843" right="0.33008432" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Notifications</value>
+      <value>Problems View</value>
+      <value>Commit</value>
+      <value>Terminal</value>
+      <value>Services</value>
+      <value>TODO</value>
+      <value>RustCargo</value>
+      <value>Database</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="693" y="352" width="528" height="324" key="Github.ShareDialog" timestamp="1699743689757">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="352" width="528" height="324" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1699743689757" />
+    <state width="1816" height="192" key="GridCell.Tab.0.bottom" timestamp="1700547333046">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="192" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1700547333046" />
+    <state width="1816" height="192" key="GridCell.Tab.0.center" timestamp="1700547333046">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="192" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1700547333046" />
+    <state width="1816" height="192" key="GridCell.Tab.0.left" timestamp="1700547333046">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="192" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1700547333046" />
+    <state width="1816" height="192" key="GridCell.Tab.0.right" timestamp="1700547333046">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="192" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1700547333046" />
+    <state x="543" y="259" width="828" height="510" key="IDE.errors.dialog" timestamp="1699598551875">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="543" y="259" width="828" height="510" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1699598551875" />
+    <state x="464" y="154" key="SettingsEditor" timestamp="1700546945163">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="464" y="154" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1700546945163" />
+    <state x="555" y="241" width="804" height="545" key="Vcs.Push.Dialog.v2" timestamp="1699743712899">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="241" width="804" height="545" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1699743712899" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/objects/mod.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entities/player/mod.rs" />
+    <entry file="file://$PROJECT_DIR$/src/entities/mod.rs" />
+    <entry file="file://$PROJECT_DIR$/src/player/mod.rs" />
+    <entry file="file://$PROJECT_DIR$/src/player/player_main.rs" />
+    <entry file="file://$USER_HOME$/.rustup/toolchains/stable-x86_64-unknown-linux-gnu/lib/rustlib/src/rust/library/core/src/default.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="132" column="7" selection-start-line="132" selection-start-column="7" selection-end-line="132" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/level.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="677">
+          <caret line="33" column="108" selection-start-line="33" selection-start-column="108" selection-end-line="33" selection-end-column="108" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/objects/wall.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="37" column="55" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
+          <folding>
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cargo/registry/src/index.crates.io-6f17d22bba15001f/eframe-0.23.0/src/epi/mod.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="298" column="8" selection-start-line="298" selection-start-column="8" selection-end-line="298" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="n#game#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/player.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

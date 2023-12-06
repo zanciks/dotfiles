@@ -1,0 +1,2 @@
+2023-11-21 23:29:02.406 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/zanciks/.config/wpg/templates/config_i3_config.base","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-11-21 23:29:05.820 [info] [perf] Render performance baseline is 31ms

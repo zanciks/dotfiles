@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <style>
+.lightbulb-button {
+ background-color: #f4d03f; /* Yellow */
+ border: none;
+ color: black;
+ padding: 15px 32px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ border-radius: 50%; /* Make the button circular */
+ position: relative; /* Position the pseudo-elements relative to this button */
+ overflow: hidden; /* Hide the overflowing parts of the pseudo-elements */
+}
+
+.lightbulb-button::before,
+.lightbulb-button::after {
+ content: "";
+ position: absolute;
+ top: 0;
+ width: 100%;
+ height: 100%;
+ background: #f4d03f; /* Yellow */
+ transform-origin: bottom center;
+ transition: transform 0.5s;
+}
+
+.lightbulb-button::before {
+ transform: rotate(45deg);
+}
+
+.lightbulb-button::after {
+ transform: rotate(-45deg);
+}
+
+.lightbulb-button:hover {
+ color: white;
+}
+
+   </style>
+   
+</head>
+<body>
+    <button class="lightbulb-button">Turn On</button>
+</body>
+</html>

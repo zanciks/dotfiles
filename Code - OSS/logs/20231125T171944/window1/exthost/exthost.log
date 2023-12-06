@@ -1,0 +1,16 @@
+2023-11-25 17:19:46.348 [info] Extension host with pid 1556 started
+2023-11-25 17:19:46.348 [info] Skipping acquiring lock for /home/zanciks/.config/Code - OSS/User/workspaceStorage/832c8a1d3edcdc712b47edad2a8750f2.
+2023-11-25 17:19:46.374 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-25 17:19:46.394 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-11-25 17:19:46.893 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-11-25 17:19:46.896 [info] ExtensionService#_doActivateExtension Shan.code-settings-sync, startup: true, activationEvent: '*'
+2023-11-25 17:19:46.999 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-11-25 17:19:47.062 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-25 17:19:47.124 [info] Eager extensions activated
+2023-11-25 17:19:47.141 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-25 17:19:47.143 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-25 17:19:47.164 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2023-11-25 17:19:47.254 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-11-25 17:19:47.305 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-11-25 17:19:47.394 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-11-25 19:17:01.601 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'

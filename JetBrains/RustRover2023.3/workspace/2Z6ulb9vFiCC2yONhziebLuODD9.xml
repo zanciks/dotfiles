@@ -1,0 +1,206 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="slime_egui" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cargo.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#17#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/simulation.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/canvas.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Rust">
+      <summary usageCount="3" lastUsed="1701755712869" />
+    </fileType>
+    <fileType name="TOML">
+      <summary usageCount="2" lastUsed="1701755036847" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Cargo.toml" />
+      <option value="$PROJECT_DIR$/src/main.rs" />
+      <option value="$PROJECT_DIR$/src/canvas.rs" />
+      <option value="$PROJECT_DIR$/src/simulation.rs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Rust">
+      <summary usageCount="3" lastUsage="1701755712869" />
+    </language>
+    <language id="TOML">
+      <summary usageCount="2" lastUsage="1701755036847" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="slime_egui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/zanciks/RustroverProjects/slime_egui}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="slime_egui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/zanciks/RustroverProjects/slime_egui}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/zanciks/RustroverProjects/slime_egui/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Cargo.Run" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="991000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" side_tool="true" weight="0.33026317" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14552632" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32960078" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.3403116" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.3403116" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Cargo" order="5" weight="0.2" />
+      <window_info anchor="right" id="RustCargo" order="6" weight="0.2" />
+      <unified_weights bottom="0.3403116" left="0.14552632" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Problems View</value>
+      <value>Bookmarks</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="862" height="307" key="GridCell.Tab.0.bottom" timestamp="1701755992720">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="862" height="307" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1701755992720" />
+    <state width="862" height="307" key="GridCell.Tab.0.center" timestamp="1701755992720">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="862" height="307" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1701755992720" />
+    <state width="862" height="307" key="GridCell.Tab.0.left" timestamp="1701755992720">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="862" height="307" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1701755992720" />
+    <state width="862" height="307" key="GridCell.Tab.0.right" timestamp="1701755992720">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="862" height="307" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1701755992720" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canvas.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simulation.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,3 @@
+2023-11-20 23:30:46.835 [info] [perf] Render performance baseline is 32ms
+2023-11-20 23:30:51.176 [warning] [backup tracker] suspended, ignoring dirty change event file:///home/zanciks/.config/wpg/templates/config_i3_config 
+2023-11-20 23:30:54.260 [info] [perf] Render performance baseline is 33ms

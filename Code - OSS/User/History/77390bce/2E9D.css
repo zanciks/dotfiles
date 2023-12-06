@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.project {
+    width:  50vh;
+    height: 50vh;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: space-between;
+    border: 2px solid black;
+}
+
+#chess-engine {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.project-link {
+    margin-top: auto;
+}

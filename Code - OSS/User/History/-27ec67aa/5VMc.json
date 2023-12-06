@@ -1,0 +1,9 @@
+{
+    "editor.fontFamily": "\"JetBrains Mono Nerd\"",
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.codeLensFontFamily": "JetBrains Mono Nerd",
+    "sync.gist": "8c1c9689f085f88e81ff487662df6225",
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "security.workspace.trust.untrustedFiles": "open"
+}

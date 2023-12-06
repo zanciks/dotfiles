@@ -1,0 +1,84 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CRATES_IO_INDEX_LAST_UPDATE": "1701764718648",
+    "Cargo TestSupport.hideIgnoredTests": "false",
+    "Cargo TestSupport.hidePassedTests": "false",
+    "IdeErrorsDialog.LAST_OK_ACTION": "REPORT_AND_CLEAR_ALL",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "7",
+    "NextRunPlatformUpdateBuild": "RR-233.10527.212",
+    "NextRunPlatformUpdateVersion": "2023.3 EAP",
+    "RunOnceActivity.rust.first.ide.run": "true",
+    "SHELLCHECK.PATH": "I do mind",
+    "SettingsSearchHistory": "suggestion\ncrate\ntheme",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "RR-233.10527.39",
+    "com.jetbrains.rust.LAST_UPDATE": "1701752821692",
+    "com.jetbrains.rust.LAST_VERSION": "233.20527.39",
+    "evlsprt3.RR-233.10527.39": "5",
+    "exception.accepted.notices": ":d4a3ab85",
+    "experimental.ui.used.version": "233.10527.39",
+    "file.gist.reindex.count": "495",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "got.it.tooltip.speed.search.shown": "1",
+    "got.it.tooltip.terminal.smart_command_execution": "1",
+    "gotit.previous.run": "RR-233.10527.39",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/zanciks/code",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "org.rust.cargo.test.rustc.bootstrap.do.not.show": "true",
+    "previousColorScheme": "_@user_High contrast",
+    "registry.to.advanced.settings.migration.build": "RR-233.10527.39",
+    "rs.new.file.attach.selected": "false",
+    "tab_selection_count": "5",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "5.1.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/zanciks/RustroverProjects/egui-platformer",
+      "/home/zanciks/code/egui-platformer/Cargo.toml",
+      "/home/zanciks/code/egui-platformer",
+      "/home/zanciks/code"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;Rename&quot;: 1699514560759,
+    &quot;GoToDeclaration&quot;: 1699514555882,
+    &quot;ShowUsages&quot;: 1699514559963,
+    &quot;ContextActions&quot;: 1699499342619
+  },
+  &quot;proposedTips&quot;: {
+    &quot;GoToDeclaration&quot;: 1699514555586,
+    &quot;ContextActions&quot;: 1699499342413
+  },
+  &quot;tipsOrderSeed&quot;: 1699499342402
+}</component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="egui-platformer-history" project-path="/home/zanciks/RustroverProjects/egui-platformer" last-access-time="1699742409480" />
+      <command-history-file filename="chess-history" project-path="/home/zanciks/RustroverProjects/chess" last-access-time="1700544689774" />
+      <command-history-file filename="bevy_game-history" project-path="/home/zanciks/RustroverProjects/bevy_game" last-access-time="1701562100660" />
+      <command-history-file filename="chess_engine-history" project-path="/home/zanciks/RustroverProjects/chess_engine" last-access-time="1701542880153" />
+    </command-history-files>
+  </component>
+</application>

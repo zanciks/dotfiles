@@ -1,0 +1,210 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="slime" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+              <folding>
+                <element signature="e#17#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simulation.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="42" column="102" lean-forward="true" selection-start-line="42" selection-start-column="102" selection-end-line="42" selection-end-column="102" />
+              <folding>
+                <element signature="e#0#69#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/agent.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Rust">
+      <summary usageCount="4" lastUsed="1701762845159" />
+    </fileType>
+    <fileType name="TOML">
+      <summary usageCount="1" lastUsed="1701761108164" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Cargo.toml" />
+      <option value="$PROJECT_DIR$/src/canvas.rs" />
+      <option value="$PROJECT_DIR$/src/agent.rs" />
+      <option value="$PROJECT_DIR$/src/simulation.rs" />
+      <option value="$PROJECT_DIR$/src/main.rs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Rust">
+      <summary usageCount="4" lastUsage="1701762845159" />
+    </language>
+    <language id="TOML">
+      <summary usageCount="1" lastUsage="1701761108166" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="slime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/zanciks/RustroverProjects/slime}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="slime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/zanciks/RustroverProjects/slime}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/zanciks/RustroverProjects/slime/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Cargo.Run" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5535000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" id="Bookmarks" side_tool="true" visible="true" weight="0.15026316" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15026316" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.32960078" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.32960078" />
+      <window_info anchor="bottom" id="Debug" order="4" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.33026317" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Cargo" order="5" weight="0.2" />
+      <window_info anchor="right" id="RustCargo" order="6" weight="0.2" />
+      <unified_weights bottom="0.32960078" left="0.15026316" right="0.33026317" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Notifications</value>
+      <value>Project</value>
+      <value>Bookmarks</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="692" y="263" width="528" height="492" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1701761951287">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="692" y="263" width="528" height="492" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1701761951287" />
+    <state width="1816" height="296" key="GridCell.Tab.0.bottom" timestamp="1701766632841">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1701766632841" />
+    <state width="1816" height="296" key="GridCell.Tab.0.center" timestamp="1701766632841">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="296" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1701766632841" />
+    <state width="1816" height="296" key="GridCell.Tab.0.left" timestamp="1701766632841">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="296" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1701766632841" />
+    <state width="1816" height="296" key="GridCell.Tab.0.right" timestamp="1701766632841">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="296" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1701766632841" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canvas.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/agent.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simulation.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="42" column="102" lean-forward="true" selection-start-line="42" selection-start-column="102" selection-end-line="42" selection-end-column="102" />
+          <folding>
+            <element signature="e#0#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="e#17#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,334 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="bevy_game" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1276">
+              <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pause.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/settings.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/player.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="451">
+              <caret line="115" selection-start-line="115" selection-end-line="115" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Rust">
+      <summary usageCount="16" lastUsed="1701752822570" />
+    </fileType>
+    <fileType name="TOML">
+      <summary usageCount="5" lastUsed="1701584025015" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>State</find>
+      <find>KinematicCharacterControllerOutput</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/ui.rs" />
+      <option value="$PROJECT_DIR$/src/game.rs" />
+      <option value="$PROJECT_DIR$/Cargo.toml" />
+      <option value="$PROJECT_DIR$/src/pause.rs" />
+      <option value="$PROJECT_DIR$/src/main.rs" />
+      <option value="$PROJECT_DIR$/src/settings.rs" />
+      <option value="$PROJECT_DIR$/src/player.rs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Rust">
+      <summary usageCount="16" lastUsage="1701752822570" />
+    </language>
+    <language id="TOML">
+      <summary usageCount="5" lastUsage="1701584025015" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bevy_game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/zanciks/RustroverProjects/bevy_game}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bevy_game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/zanciks/RustroverProjects/bevy_game}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/zanciks/RustroverProjects/bevy_game/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Cargo.Run" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="bevy_game-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="45432000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Pull Requests" sideWeight="0.50074625" weight="0.155" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.50074625" weight="0.155" />
+      <window_info active="true" id="Commit" order="1" sideWeight="0.50104713" visible="true" weight="0.155" />
+      <window_info active="true" id="Structure" order="2" sideWeight="0.49895287" side_tool="true" visible="true" weight="0.155" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.27799416" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.27799416" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.27799416" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.27799416" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.27799416" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.33026317" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Cargo" order="5" weight="0.2" />
+      <window_info anchor="right" id="RustCargo" order="6" weight="0.33026317" />
+      <unified_weights bottom="0.27799416" left="0.155" right="0.33026317" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Problems View</value>
+      <value>Commit</value>
+      <value>Notifications</value>
+      <value>Project</value>
+      <value>RustCargo</value>
+      <value>Debug</value>
+      <value>Pull Requests</value>
+      <value>Structure</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="554" y="175" width="924" height="668" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1701556845138">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="554" y="175" width="924" height="668" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1701556845138" />
+    <state x="692" y="263" width="528" height="492" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1701577813060">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="692" y="263" width="528" height="492" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1701577813060" />
+    <state x="692" y="347" width="528" height="325" key="Github.ShareDialog" timestamp="1701559678931">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="692" y="347" width="528" height="325" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1701559678931" />
+    <state width="1816" height="243" key="GridCell.Tab.0.bottom" timestamp="1701672583214">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="243" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1701672583214" />
+    <state width="1816" height="243" key="GridCell.Tab.0.center" timestamp="1701672583214">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="243" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1701672583214" />
+    <state width="1816" height="243" key="GridCell.Tab.0.left" timestamp="1701672583214">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="243" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1701672583214" />
+    <state width="1816" height="243" key="GridCell.Tab.0.right" timestamp="1701672583214">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="243" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1701672583214" />
+    <state width="1816" height="243" key="GridCell.Tab.1.bottom" timestamp="1701587500572">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="243" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1701587500572" />
+    <state width="1816" height="243" key="GridCell.Tab.1.center" timestamp="1701587500572">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="243" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1701587500572" />
+    <state width="1816" height="243" key="GridCell.Tab.1.left" timestamp="1701587500572">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="243" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1701587500572" />
+    <state width="1816" height="243" key="GridCell.Tab.1.right" timestamp="1701587500572">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="243" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1701587500572" />
+    <state width="1816" height="243" key="GridCell.Tab.2.bottom" timestamp="1701587500572">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="243" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1701587500572" />
+    <state width="1816" height="243" key="GridCell.Tab.2.center" timestamp="1701587500572">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="243" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1701587500572" />
+    <state width="1816" height="243" key="GridCell.Tab.2.left" timestamp="1701587500572">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="243" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1701587500572" />
+    <state width="1816" height="243" key="GridCell.Tab.2.right" timestamp="1701587500572">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="243" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1701587500572" />
+    <state width="1816" height="243" key="GridCell.Tab.3.bottom" timestamp="1701587500572">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="243" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1701587500572" />
+    <state width="1816" height="243" key="GridCell.Tab.3.center" timestamp="1701587500572">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="243" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1701587500572" />
+    <state width="1816" height="243" key="GridCell.Tab.3.left" timestamp="1701587500572">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="243" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1701587500572" />
+    <state width="1816" height="243" key="GridCell.Tab.3.right" timestamp="1701587500572">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1816" height="243" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1701587500572" />
+    <state x="542" y="254" width="828" height="511" key="IDE.errors.dialog" timestamp="1701559715835">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="542" y="254" width="828" height="511" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1701559715835" />
+    <state x="463" y="150" key="SettingsEditor" timestamp="1701543887699">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="463" y="150" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1701543887699" />
+    <state x="554" y="236" width="804" height="546" key="Vcs.Push.Dialog.v2" timestamp="1701666569550">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="554" y="236" width="804" height="546" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1701666569550" />
+    <state x="750" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1701577348595">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="750" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1701577348595" />
+    <state x="623" y="232" key="run.anything.popup" timestamp="1701586082864">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="232" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1701586082864" />
+    <state x="623" y="217" width="691" height="694" key="search.everywhere.popup" timestamp="1701576595371">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="217" width="691" height="694" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1701576595371" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_app-0.12.1/src/main_schedule.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="122" column="14" lean-forward="true" selection-start-line="122" selection-start-column="14" selection-end-line="122" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game.rs" />
+    <entry file="file://$PROJECT_DIR$/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1276">
+          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pause.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/settings.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/player.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

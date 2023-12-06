@@ -1,0 +1,261 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="chess" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/game.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="743">
+              <caret line="53" column="1" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/square.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/piece.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/color.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Rust">
+      <summary usageCount="5" lastUsed="1700544486596" />
+    </fileType>
+    <fileType name="TOML">
+      <summary usageCount="1" lastUsed="1700544359662" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/board.rs" />
+      <option value="$PROJECT_DIR$/src/square.rs" />
+      <option value="$PROJECT_DIR$/src/color.rs" />
+      <option value="$PROJECT_DIR$/src/piece.rs" />
+      <option value="$PROJECT_DIR$/src/main.rs" />
+      <option value="$PROJECT_DIR$/src/game.rs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Rust">
+      <summary usageCount="5" lastUsage="1700544486596" />
+    </language>
+    <language id="TOML">
+      <summary usageCount="1" lastUsage="1700544359662" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="chess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/zanciks/RustroverProjects/chess}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chess" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/zanciks/RustroverProjects/chess}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/zanciks/RustroverProjects/chess/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Cargo.Run" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="chess-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2107000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16412012" />
+      <window_info id="Commit" order="1" weight="0.16412012" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Problems View" order="0" sideWeight="0.49807268" side_tool="true" weight="0.3692683" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="4" sideWeight="0.5002754" weight="0.33024392" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" sideWeight="0.5019273" weight="0.3692683" />
+      <window_info anchor="bottom" id="Services" order="5" sideWeight="0.5002754" weight="0.33024392" />
+      <window_info anchor="bottom" id="Build" order="5" sideWeight="0.5206498" weight="0.3692683" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.33008432" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Cargo" order="5" weight="0.2" />
+      <window_info anchor="right" id="RustCargo" order="6" weight="0.2" />
+      <unified_weights bottom="0.3692683" left="0.16412012" right="0.33008432" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Services</value>
+      <value>Terminal</value>
+      <value>Notifications</value>
+      <value>Commit</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="589" y="197" width="736" height="627" key="#Inspections" timestamp="1700544746710">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="589" y="197" width="736" height="627" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1700544746710" />
+    <state x="643" y="242" width="628" height="536" key="FileChooserDialogImpl" timestamp="1700546661836">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="643" y="242" width="628" height="536" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1700546661836" />
+    <state width="862" height="336" key="GridCell.Tab.0.bottom" timestamp="1700546663414">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="862" height="336" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1700546663414" />
+    <state width="862" height="336" key="GridCell.Tab.0.center" timestamp="1700546663414">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="862" height="336" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1700546663414" />
+    <state width="862" height="336" key="GridCell.Tab.0.left" timestamp="1700546663414">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="862" height="336" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1700546663414" />
+    <state width="862" height="336" key="GridCell.Tab.0.right" timestamp="1700546663414">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="862" height="336" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1700546663414" />
+    <state x="543" y="255" width="828" height="510" key="IDE.errors.dialog" timestamp="1700546551147">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="543" y="255" width="828" height="510" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1700546551147" />
+    <state x="464" y="150" key="SettingsEditor" timestamp="1700544636781">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="464" y="150" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1700544636781" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/color.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/square.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/piece.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="743">
+          <caret line="53" column="1" lean-forward="true" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

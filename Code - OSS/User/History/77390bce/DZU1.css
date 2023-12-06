@@ -1,0 +1,38 @@
+:root {
+    --primary-color: black;
+    --secondary-color: white;
+    --theme: 0;
+}
+
+fieldset {
+    font-size: 16px;
+    padding: 0;
+    margin: 5px;
+    border: 1px solid var(--secondary-color);
+}
+
+body {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+}
+
+a {
+    color: inherit;
+    text-decoration: underline
+}
+
+hr {
+    border-color: var(--secondary-color);
+}
+
+button {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    border: 1px solid var(--secondary-color);
+    margin: 0px;
+}

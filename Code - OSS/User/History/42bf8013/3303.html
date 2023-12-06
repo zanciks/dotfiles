@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    :root {
+      --theme: 0;
+    }
+
+    .circle-button {
+      width: 100px;
+      height: 100px;
+      background-color: var(--circle-button-bg-color);
+      border: none;
+      border-radius: 50%;
+      cursor: pointer;
+    }
+
+    .circle-button[data-theme='1'] {
+      background-color: #2ecc71;
+    }
+  </style>
+</head>
+<body>
+  <button class="circle-button" data-theme="var(--theme)"></button>
+</body>
+</html>

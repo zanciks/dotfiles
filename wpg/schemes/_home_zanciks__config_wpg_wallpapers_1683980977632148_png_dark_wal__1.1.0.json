@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/zanciks/.config/wpg/wallpapers/1683980977632148.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#160a0c",
+        "foreground": "#e6ffff",
+        "cursor": "#e6ffff"
+    },
+    "colors": {
+        "color0": "#160a0c",
+        "color1": "#4FD5F9",
+        "color2": "#2EC9FB",
+        "color3": "#6BDFF8",
+        "color4": "#57AFD0",
+        "color5": "#B1AABD",
+        "color6": "#22D8FA",
+        "color7": "#c7eaf1",
+        "color8": "#39191e",
+        "color9": "#51ffff",
+        "color10": "#28ffff",
+        "color11": "#74ffff",
+        "color12": "#5decff",
+        "color13": "#dfc5ff",
+        "color14": "#19ffff",
+        "color15": "#e6ffff"
+    }
+}

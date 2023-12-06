@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <style>
+    :root {
+        --primary-color: black;
+        --secondary-color: blue;
+        --theme: 0;
+        --button-color: var(--primary-color);
+    }
+    .circle {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        background-color: var(--button-color);
+    }
+   </style>
+   
+</head>
+<body>
+    <button id="themeButton" class="circle"></button>
+
+
+    <script>
+  var themeButton = document.getElementById('themeButton');
+  var theme = 0;
+
+  themeButton.addEventListener('click', function() {
+      theme = (theme === 0) ? 1 : 0;
+      document.documentElement.style.setProperty('--theme', theme);
+      if (theme === 0) {
+          document.documentElement.style.setProperty('--button-color', 'var(--secondary-color)');
+      } else {
+          document.documentElement.style.setProperty('--button-color', 'var(--primary-color)');
+      }
+  });
+     </script>
+     
+</body>
+</html>

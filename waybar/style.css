@@ -1,0 +1,67 @@
+* {
+    border: none;
+    font-family: "Zpix";
+    font-weight: bold;
+}
+
+.modules-right {
+
+}
+
+.modules-left {
+	
+}
+
+.modules-center {
+
+}
+
+window#waybar {
+    background: transparent
+}
+
+#workspaces {
+    padding-left: 16px;
+    padding-right: 16px;
+	outline: solid 3px;
+}
+
+#workspaces button {
+	font-size: 20px;
+	box-shadow: none;
+	text-shadow: none;
+	padding: 0px;
+	min-width: 32px;
+	color: #A636C9;
+	transition: all 0.2s cubic-bezier(0.55, -0.68, 0.48, 1.682);
+	opacity: 0.9;
+}
+
+#workspaces button.active {
+	color: #5BC956;
+	opacity: 0.95;
+}
+
+#workspaces button:hover {
+	color: #5BC956;
+	opacity: 1;
+}
+
+#clock {
+    font-size: 18px;
+    color: #5BC956;
+	border: solid;
+    opacity: 0.9;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+#image.evangelion {
+	background-image: url("/home/zanciks/.config/waybar/evangelion.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	min-width: 200px;
+	min-height: 36px;
+	margin-top: 4px;
+}

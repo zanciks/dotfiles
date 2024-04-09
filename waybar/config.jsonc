@@ -1,0 +1,64 @@
+{
+	"layer": "top",
+	"position": "top",
+	"mod": "dock",
+	"height": 40,
+	"exclusive": true,
+	"passthrough": false,
+	"gtk-layer-shell": true,
+	"margin": "0px 0px 0px 0px",
+
+	"modules-left": ["hyprland/workspaces"],
+	"modules-center": ["image#evangelion"],
+	"modules-right": ["clock", "tray"],
+
+	"clock": {
+		"format": "{:%H:%M}",
+		"format-alt": "{:%H:%M  %b %Y}"
+	},
+
+	"hyprland/workspaces": {
+		"format": "{icon}",
+		"on-click": "activate",
+		"format-icons": {
+			"1": "一",
+			"2": "二",
+			"3": "三",
+			"4": "四",
+			"5": "五",
+			"6": "六",
+			"7": "七",
+			"8": "八",
+			"9": "九",
+			"10": "十"
+			// "urgent": "",
+			// "active": "",
+			// "default": ""
+		},
+		"sort-by-number": true
+	},
+
+	"wlr/taskbar": {
+		"format": "{icon}",
+		"icon-size": 24,
+		"icon-theme": "Adwaita",
+		"tooltip-format": "{title}",
+		"on-click": "activate",
+		"on-click-middle": "close",
+		"ignore-list": ["kitty"],
+		"app_ids-mapping": {
+			"firefoxdeveloperedition": "firefox-developer-edition"
+		}
+	},
+
+	"tray": {
+		"icon-size": 16,
+		"spacing": 8
+	},
+
+	"image#evangelion": {
+		"format": " {} ",
+		"exec": "echo 'x'",
+		"interval": 86400
+	}
+}
